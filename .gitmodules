@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SCIntRuler"]
+	path = SCIntRuler
+	url = https://github.com/yuelyu21/scintruler
 [submodule "SuperSurv"]
 	path = SuperSurv
 	url = https://github.com/yuelyu21/supersurv
